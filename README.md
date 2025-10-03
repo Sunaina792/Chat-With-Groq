@@ -11,6 +11,13 @@ A Streamlit-based chatbot application that demonstrates LangChain basics using G
 - 🔍 **Search Functionality** - Find specific messages in your chat history
 - 🎨 **Modern UI** - Clean, responsive interface with Streamlit
 
+## 🚀 Prototype / Demo
+
+Here’s a quick look at the prototype in action:
+
+### App Screenshot
+![App Screenshot](chatbot.png)
+
 ## Setup Instructions
 
 ### 1. Install Dependencies
@@ -81,6 +88,7 @@ Langchain-basic/
 - **Groq** - Ultra-fast inference platform
 - **Streamlit** - Web application framework
 - **Python** - Programming language
+
 
 
 
