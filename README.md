@@ -82,8 +82,7 @@ Langchain-basic/
 - **Streamlit** - Web application framework
 - **Python** - Programming language
 
----
 
-**Get your free GROQ API key**: [console.groq.com](https://console.groq.com)
+
 
 
